@@ -1,5 +1,5 @@
 # hangman
-This is a Simple Remake Version of Hangman.
+This is a Simple Remake Version of Hangman. \n
 The Rules of the Game are very simple and Understandable. You can play it.
 
 I've made this to just polish up my skills in Python.
