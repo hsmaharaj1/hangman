@@ -65,7 +65,6 @@ class HangMan():
                         n = 0
                         for i in self.lst_new:
                             if i == self.ltr:
-                                # self.lst_hid_word[self.index] = self.ltr
                                 self.lst_hid_word[n] = self.ltr
                             n += 1
                                 
