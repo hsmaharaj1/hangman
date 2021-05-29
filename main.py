@@ -92,12 +92,9 @@ class HangMan():
                     print("The Word was ", self.new)        
                     self.GAME_OVER = False
 
-
         else:
             print("Please Enter a Valid Number")
             pass
-
-
 
 if __name__ == "__main__":
     game = HangMan()
